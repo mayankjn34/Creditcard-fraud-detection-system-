@@ -21,7 +21,7 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 Link to dataset :
 ```https://www.kaggle.com/mlg-ulb/creditcardfraud```
 
-### Trainig model
+### Training model
 
 this repository contains the dataset : creditcard.csv
 Code to train the machine on this data as well as evaluating with two algoriths
